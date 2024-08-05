@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "554923257359",
+    "project_id": "nadirah-s",
+    "storage_bucket": "nadirah-s.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554923257359:android:d5a973880eb93c256c3d7a",
+        "android_client_info": {
+          "package_name": "com.example.to_do_list"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjZO8U5iShXubMBrRa6QrPvqZDnXFz2J4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
