@@ -50,20 +50,19 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAdzwMBHBMaBKNww4VuOEo44YJXUct-gEo',
-    appId: '1:554923257359:web:ab0fe028cbee4af66c3d7a',
-    messagingSenderId: '554923257359',
-    projectId: 'nadirah-s',
-    authDomain: 'nadirah-s.firebaseapp.com',
-    storageBucket: 'nadirah-s.appspot.com',
-    measurementId: 'G-VZVSEKX2FE',
+    aapiKey: 'Your API Key',
+    appId: 'Your Id',
+    messagingSenderId: 'Your Id',
+    projectId: 'Your Id',
+    storageBucket: 'example.com',
+    measurementId: 'Your Id',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCjZO8U5iShXubMBrRa6QrPvqZDnXFz2J4',
-    appId: '1:554923257359:android:d5a973880eb93c256c3d7a',
-    messagingSenderId: '554923257359',
-    projectId: 'nadirah-s',
-    storageBucket: 'nadirah-s.appspot.com',
+    apiKey: 'Your API Key',
+    appId: 'Your Id',
+    messagingSenderId: 'Your Id',
+    projectId: 'Your Id',
+    storageBucket: 'example.com',
   );
 }
